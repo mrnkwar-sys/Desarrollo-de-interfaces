@@ -17,6 +17,7 @@ export const TareasView = () => {
         <FlatList
             data={viewModel.listado}
             renderItem={renderItemTarea}
+            key={item.id}
             contentContainerStyle={styles.listPadding}
             ItemSeparatorComponent={() => <View style={styles.separator} />}
         />
