@@ -17,7 +17,7 @@ export class Tarea {
         return this._titulo;
     }
 
-    public get estado(): number {
+    public get estado(): boolean {
         return this.estado;
     }
 
