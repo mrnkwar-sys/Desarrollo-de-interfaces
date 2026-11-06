@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Unidad05 Clean Architecture",
+    "slug": "unidad05-clean-architecture",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "unidad05",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
