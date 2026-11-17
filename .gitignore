@@ -1,0 +1,12 @@
+# Dependencias y archivos generados de React Native / Expo
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Logs y caché
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log

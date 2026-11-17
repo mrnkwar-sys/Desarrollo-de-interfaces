@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "EjercicioResuelto",
+    "slug": "ejercicio-resuelto",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "ejercicioresuelto",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-router"]
+  }
+}
